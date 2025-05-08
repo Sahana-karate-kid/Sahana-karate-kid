@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahana-karate-kid
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m a front end developer with experience in react and Angular
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me - sahanakorlahalli@gmail.com
 
 <!---
